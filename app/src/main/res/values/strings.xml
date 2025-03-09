@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Interest Calculator</string>
+    <string name="s_i">S.I. =</string>
+    <string name="calculate">Calculate</string>
+    <string name="principal_amount">Principal Amount</string>
+    <string name="rate_of_interest">Rate of Interest</string>
+    <string name="time_in_years">Time in years</string>
+</resources>
